@@ -1,1 +1,2 @@
 *.aspx linguist-detectable=false
+*.cginc linguist-detectable=false
